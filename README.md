@@ -1,4 +1,4 @@
-# sentiment-analysis
+# Sentiment-analysis
 
 Analyze the sentiments of tweets which will  help the brand to plan their strategy in respect to their business needs.
 ## Technology used:  
